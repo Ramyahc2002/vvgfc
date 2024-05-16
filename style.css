@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    text-decoration: double;
+    background-color: yellow;
+    color: rgb(26, 134, 22);
+    text-shadow: 60;
+    text-size-adjust: 50px;
+    word-spacing: 20%;
+    direction: rtl;
+    text-shadow: 50px;
+}
+body{
+    text-align: center;
+border: 40px;
+
+
+    }
+
+    *{
+
+        background-repeat: repeat;
+        justify-content: center;
+        align-content: center;
+        background-color: whitesmoke;
+    }
